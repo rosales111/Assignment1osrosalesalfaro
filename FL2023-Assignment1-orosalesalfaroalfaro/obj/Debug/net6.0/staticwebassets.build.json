@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ylAgrnvXnybFqJUnNv2TujAf2QWklKxJQEuJXQYPxYE=",
+  "Hash": "b7N7NILEBgNHS94lK/woSzOEmvOX392Ehs72aB3Hp9w=",
   "Source": "FL2023-Assignment1-orosalesalfaroalfaro",
   "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
   "Mode": "Default",
@@ -17,23 +17,6 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\images\\prometheus.jpg",
-      "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
-      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
-      "RelativePath": "images/prometheus.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\prometheus.jpg"
-    },
-    {
       "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\index.html",
       "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
       "SourceType": "Discovered",
@@ -49,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\prometheus.jpg",
+      "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
+      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+      "RelativePath": "prometheus.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\prometheus.jpg"
     },
     {
       "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\styles.css",
