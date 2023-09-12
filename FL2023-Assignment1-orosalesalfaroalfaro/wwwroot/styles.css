@@ -1,2 +1,12 @@
 ﻿body {
+    font-family: Arial, sans-serif;
+}
+
+/*Centering the content*/
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }

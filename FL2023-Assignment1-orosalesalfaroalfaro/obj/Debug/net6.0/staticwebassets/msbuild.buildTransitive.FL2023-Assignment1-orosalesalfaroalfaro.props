@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FL2023-Assignment1-orosalesalfaroalfaro.props" />
+</Project>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "50Brg0IqxV+KnLOxIB4XSB7U8sQu5/67JjRpKtHFkhI=",
+  "Source": "FL2023-Assignment1-orosalesalfaroalfaro",
+  "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot",
+      "Source": "FL2023-Assignment1-orosalesalfaroalfaro",
+      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
+      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\index.html",
+      "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
+      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\styles.css",
+      "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
+      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
