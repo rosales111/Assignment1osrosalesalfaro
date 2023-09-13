@@ -7,4 +7,8 @@
     <RootNamespace>FL2023_Assignment1_orosalesalfaroalfaro</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>

@@ -1,15 +1,74 @@
-﻿body {
-    background-color: #333;
-    color: #fff;
+﻿.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    background-color: black;
     font-family: Arial, sans-serif;
+    background-image: url('Prometheus_22.jpg');
+   
+}
+html, body {
+    height: 100%;
+    
 }
 
 header {
     text-align: center;
     margin-bottom: 20px;
+    color: yellow;
 }
 
 #Title {
     font-size: 3em;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    color:yellow;
+}
+
+#CoverArt {
+    border-radius: 40%;
+    width: 300px;
+    margin-bottom: 20px;
+    height: 9%;
+}
+
+#Trailer {
+    width: 80%;
+    height: auto;
+    margin: 20px 0;
+}
+
+#Summary {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+#Actors {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    list-style-type: none;
+    color: yellow
+}
+
+    #Actors li {
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+@supports not (gap: 50px) {
+    #Actors li:not(:last-child) {
+        margin-bottom: 50px;
+    }
+}
+
+a {
+    color: yellow;
+}
+
+#Rating{
+    color: yellow;
+    
 }

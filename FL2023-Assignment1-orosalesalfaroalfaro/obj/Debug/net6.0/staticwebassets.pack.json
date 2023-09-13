@@ -1,12 +1,16 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\Prometheus_22.jpg",
+      "PackagePath": "staticwebassets\\Prometheus_22.jpg"
+    },
+    {
       "Id": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\prometheus.jpg",
-      "PackagePath": "staticwebassets\\prometheus.jpg"
+      "Id": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\prometheus_584x800_d81067fb.jpeg",
+      "PackagePath": "staticwebassets\\prometheus_584x800_d81067fb.jpeg"
     },
     {
       "Id": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\styles.css",

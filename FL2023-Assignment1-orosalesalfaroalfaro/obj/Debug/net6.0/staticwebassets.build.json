@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b7N7NILEBgNHS94lK/woSzOEmvOX392Ehs72aB3Hp9w=",
+  "Hash": "8y3V38hNMJuvHyMvoQbddEN0MadidiC+wRei7XYtvV4=",
   "Source": "FL2023-Assignment1-orosalesalfaroalfaro",
   "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
   "Mode": "Default",
@@ -34,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\prometheus.jpg",
+      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\Prometheus_22.jpg",
       "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
       "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
-      "RelativePath": "prometheus.jpg",
+      "RelativePath": "Prometheus_22.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,7 +48,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\prometheus.jpg"
+      "OriginalItemSpec": "wwwroot\\Prometheus_22.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\prometheus_584x800_d81067fb.jpeg",
+      "SourceId": "FL2023-Assignment1-orosalesalfaroalfaro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\",
+      "BasePath": "_content/FL2023-Assignment1-orosalesalfaroalfaro",
+      "RelativePath": "prometheus_584x800_d81067fb.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\prometheus_584x800_d81067fb.jpeg"
     },
     {
       "Identity": "C:\\Users\\rosal\\source\\repos\\FL2023-Assignment1-orosalesalfaroalfaro\\FL2023-Assignment1-orosalesalfaroalfaro\\wwwroot\\styles.css",
